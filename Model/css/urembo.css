@@ -1,0 +1,31 @@
+table{
+    width: 90%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid cornflowerblue;
+    padding: 20px;
+    margin: 10px;
+}
+thead{
+    font-family: "Arial Narrow";
+    font-size:28px ;
+    color: darkblue;
+}
+body{
+    /*background-image:url("/Model/images/model6.jpg");*/
+    /*background-repeat: no-repeat;*/
+    background-color: powderblue;
+}
+h2{
+    text-align: center  ;
+    font-size: 40px  ;
+    color: blue;
+}
+.fruits{
+    border: cyan 2px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: aqua;
+
+}
